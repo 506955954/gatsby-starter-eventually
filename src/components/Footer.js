@@ -19,7 +19,7 @@ export default function Footer() {
       <ul className="copyright">
         <li>&copy; Szymon Rakowski</li>
         <li>
-          Currently: <a href="">Suwałki, Poland
+          Currently:>Suwałki, Poland
         </li>
       </ul>
     </footer>
