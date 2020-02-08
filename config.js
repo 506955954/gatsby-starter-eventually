@@ -24,11 +24,6 @@ module.exports = {
       url: 'https://twitter.com/onlyanubhav',
     },
     {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
-    },
-    {
       icon: 'fa-envelope-o',
       name: 'Email',
       url: 'mailto:szymonrakowski@protonmail.com',
