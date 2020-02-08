@@ -1,12 +1,12 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Eventually', // <title>
+  siteTitle: 'Szymon Rakowski', // <title>
   manifestName: 'Eventually',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
-  manifestBackgroundColor: '#663399',
-  manifestThemeColor: '#663399',
+  manifestBackgroundColor: '#FFFFFF',
+  manifestThemeColor: '#FFFFFF',
   manifestDisplay: 'standalone',
-  manifestIcon: 'src/assets/img/website-icon.png',
+  manifestIcon: 'src/assets/img/initials.png',
   pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
   // social
   heading: 'Eventually',
@@ -14,9 +14,9 @@ module.exports = {
     "A simple template for telling the world when you'll launch your next big thing.",
   socialLinks: [
     {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      icon: 'fa-youtube',
+      name: 'Youtube',
+      url: 'https://www.youtube.com/user/duchrak86/videos?view_as=subscriber',
     },
     {
       icon: 'fa-twitter',
@@ -31,7 +31,7 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'mailto:szymonrakowski@protonmail.com',
     },
   ],
 };
