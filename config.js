@@ -9,9 +9,9 @@ module.exports = {
   manifestIcon: 'src/assets/img/initials.png',
   pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'Eventually',
+  heading: 'Filmmaker ░ Photographer ░ Nomad',
   subHeading:
-    "A simple template for telling the world when you'll launch your next big thing.",
+    "Watch my works by clicking on Social Links below",
   socialLinks: [
     {
       icon: 'fa-youtube',
