@@ -19,8 +19,8 @@ module.exports = {
       url: 'https://www.youtube.com/user/duchrak86/videos?view_as=subscriber',
     },
     {
-      icon: 'fa-images',
-      name: 'Images',
+      icon: 'fa-image',
+      name: 'Image',
       url: 'https://wydrukujfotografie.pl/Szymon.Rakowski',
     },
     {
