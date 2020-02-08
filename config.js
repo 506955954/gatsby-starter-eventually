@@ -19,9 +19,9 @@ module.exports = {
       url: 'https://www.youtube.com/user/duchrak86/videos?view_as=subscriber',
     },
     {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      icon: 'fa-credit-card',
+      name: 'Credit-card',
+      url: 'https://wydrukujfotografie.pl/Szymon.Rakowski',
     },
     {
       icon: 'fa-envelope-o',
