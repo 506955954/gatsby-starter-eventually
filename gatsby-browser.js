@@ -1,16 +1,7 @@
-const React = require("react")
-const Layout = ...
-const MobileLayout = ...
+/**
+ * Implement Gatsby's Browser APIs in this file.
+ *
+ * See: https://www.gatsbyjs.org/docs/browser-apis/
+ */
 
-exports.wrapPageElement = ({ element, props }) => {
-
-   // a made up hook to detect browser size, implement your own
-   const isMobile = useDetectMobile()
-
-  return (
-    isMobile 
-      ? <MobileLayout {...props}>{element}</MobileLayout> 
-      : <Layout {...props}>{element}</Layout>
-
-  )
-}
+// You can delete this file if you're not using it
