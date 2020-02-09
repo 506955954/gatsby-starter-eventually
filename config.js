@@ -11,7 +11,7 @@ module.exports = {
   // social
   heading: 'Filmmaker ░ Photographer ░ Nomad',
   subHeading:
-    "Follow my works by the Icon Links below",
+    "Follow my works by the ICONS below",
   socialLinks: [
     {
       icon: 'fa-youtube',
