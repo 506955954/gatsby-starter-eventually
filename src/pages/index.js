@@ -22,9 +22,9 @@ const IndexPage = () => (
     <Header />
     <Footer />
     <SlideShow settings={settings} />
+    <Link to='/page-2'>Travels </Link>
   </Layout>
 );
 
-  <Link to='/page-2'>Travels </Link>;
 export default IndexPage;
 
