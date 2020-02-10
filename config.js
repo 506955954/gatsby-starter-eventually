@@ -24,6 +24,11 @@ module.exports = {
       url: 'https://wydrukujfotografie.pl/Szymon.Rakowski',
     },
     {
+      icon: 'fa-globe-africa',
+      name: 'Globe',
+      url: 'https://wydrukujfotografie.pl/Szymon.Rakowski',
+    },
+    {
       icon: 'fa-envelope-o',
       name: 'Email',
       url: 'mailto:szymonrakowski@protonmail.com',
