@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'gatsby-link';
 
 import Layout from '../components/Layout';
 import Footer from '../components/Footer';
@@ -24,4 +25,6 @@ const IndexPage = () => (
   </Layout>
 );
 
+export default () => <Link to='/page-2'>Travels </Link>
 export default IndexPage;
+
