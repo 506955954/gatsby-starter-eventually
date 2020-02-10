@@ -1,5 +1,4 @@
 import React from 'react';
-import Link from 'gatsby-link';
 
 import Layout from '../components/Layout';
 import Footer from '../components/Footer';
@@ -20,7 +19,6 @@ var settings = {
 const IndexPage = () => (
   <Layout>
     <Header />
-    <Link to='/page-2'>Travels </Link>
     <Footer />
     <SlideShow settings={settings} />
   </Layout>
