@@ -25,6 +25,6 @@ const IndexPage = () => (
   </Layout>
 );
 
-export () => <Link to='/page-2'>Travels </Link>;
+display () => <Link to='/page-2'>Travels </Link>;
 export default IndexPage;
 
