@@ -16,8 +16,8 @@ export default function Footer() {
           );
         })}
       </ul>
-      <ul className="">
-        <li>&copy; Szymon Rakowski</li>
+      <ul className="copyright">
+        <li>&; Szymon Rakowski</li>
         <li>
           Currently in Suwałki, Poland
         </li>
