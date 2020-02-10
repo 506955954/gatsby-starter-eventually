@@ -20,9 +20,9 @@ var settings = {
 const IndexPage = () => (
   <Layout>
     <Header />
+    <Link to='/page-2'>Travels </Link>
     <Footer />
     <SlideShow settings={settings} />
-    <Link to='/page-2'>Travels </Link>
   </Layout>
 );
 
