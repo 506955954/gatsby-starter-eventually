@@ -25,6 +25,6 @@ const IndexPage = () => (
   </Layout>
 );
 
-display () => <Link to='/page-2'>Travels </Link>;
+  <Link to='/page-2'>Travels </Link>;
 export default IndexPage;
 
