@@ -24,7 +24,7 @@ module.exports = {
       url: 'https://wydrukujfotografie.pl/Szymon.Rakowski',
     },
     {
-      icon: 'fa-globe-africa',
+      icon: 'fa-globe',
       name: 'Globe',
       url: 'https://wydrukujfotografie.pl/Szymon.Rakowski',
     },
