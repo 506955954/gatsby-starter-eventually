@@ -26,7 +26,7 @@ module.exports = {
     {
       icon: 'fa-globe',
       name: 'Globe',
-      url: 'https://wydrukujfotografie.pl/Szymon.Rakowski',
+      url: 'https://upbeat-agnesi-69b5d2.netlify.com/',
     },
     {
       icon: 'fa-envelope-o',
