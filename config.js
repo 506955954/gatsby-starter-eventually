@@ -16,7 +16,7 @@ module.exports = {
     {
       icon: 'fa-youtube',
       name: 'Youtube',
-      url: 'https://www.youtube.com/user/duchrak86/videos?view_as=subscriber',
+      url: 'https://www.youtube.com/user/duchrak86/videos?view_as=subscriber' target='_bnlank',
     },
     {
       icon: 'fa-image',
