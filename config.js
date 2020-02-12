@@ -26,7 +26,7 @@ module.exports = {
     {
       icon: 'fa-globe',
       name: 'Globe',
-      url: 'https://upbeat-agnesi-69b5d2.netlify.com/',
+      url: 'https://clever-thompson-4882ed.netlify.com//',
     },
     {
       icon: 'fa-envelope-o',
