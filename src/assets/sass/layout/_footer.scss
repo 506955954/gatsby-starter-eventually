@@ -10,9 +10,9 @@
   @include vendor('transition', 'opacity 0.5s ease-in-out');
   bottom: 4em;
   color: _palette(fg-light);
-  centre: 0em;
+  left: 40em;
   opacity: 1;
-  position: relative;
+  position: fixed;
 
   .icons {
     margin: 0 0 (_size(element-margin) * 0,4) 0;
