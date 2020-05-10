@@ -12,6 +12,8 @@ module.exports = {
   heading: 'Cinematographer ® Wanderer',
   subHeading:
     "Follow my works through the ICONS below",
+  subHeading:
+    "szymonrakowski@protonmail.com",
   socialLinks: [
     {
       icon: 'fa-youtube',
