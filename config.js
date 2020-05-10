@@ -10,9 +10,9 @@ module.exports = {
   pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
   // social
   heading: 'Cinematographer ® Wanderer',
-  subHeading:
+  subHeading1:
     "Follow my works through the ICONS below",
-  subHeading:
+  subHeading2:
     "szymonrakowski@protonmail.com",
   socialLinks: [
     {
