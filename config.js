@@ -11,7 +11,7 @@ module.exports = {
   // social
   heading: 'Cinematographer ® Wanderer',
   subHeading:
-    "Follow my works through the ICONS below",
+    "Follow my works through the ICONS below"
     "szymonrakowski@protonmail.com",
   socialLinks: [
     {
