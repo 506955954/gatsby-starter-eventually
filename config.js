@@ -33,10 +33,5 @@ module.exports = {
       name: 'Globe',
       url: 'https://clever-thompson-4882ed.netlify.com//',
     },
-    {
-      icon: 'fa-envelope-o',
-      name: 'Email',
-      url: 'mailto:szymonrakowski@protonmail.com',
-    },
   ],
 };
