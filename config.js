@@ -16,7 +16,7 @@ module.exports = {
     {
       icon: 'fa-youtube',
       name: 'Youtube',
-      url: 'https://www.youtube.com/user/duchrak86/featured',
+      url: 'https://www.youtube.com/user/duchrak86/videos',
     },
     {
       icon: 'fa-instagram',
