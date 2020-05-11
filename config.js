@@ -30,7 +30,7 @@ module.exports = {
     },
     {
       icon: 'fa-hiking',
-      name: 'Globe',
+      name: 'Hiking',
       url: 'https://clever-thompson-4882ed.netlify.com//',
     },
   ],
