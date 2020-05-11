@@ -29,8 +29,8 @@ module.exports = {
       url: 'https://wydrukujfotografie.pl/Szymon.Rakowski',
     },
     {
-      icon: 'fa-plane',
-      name: 'Plane',
+      icon: 'fa-hiking',
+      name: 'Hiking',
       url: 'https://clever-thompson-4882ed.netlify.com//',
     },
   ],
