@@ -19,7 +19,7 @@ export default function Footer() {
       <ul className="copyright">
         <li> szymonrakowski@protonmail.com</li>
         <li>
-          Currently in Suwałki, Poland
+          Suwałki, Poland
         </li>
       </ul>
     </footer>
