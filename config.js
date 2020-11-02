@@ -11,7 +11,7 @@ module.exports = {
   // social
   heading: 'Cinematographer ® Operator Filmowy',
   subHeading:
-    "Moje prace - kliknij IKONY ↓",
+    "Follow my works through the Icons below ↓ Moje prace - kliknij Ikony ↓",
   socialLinks: [
     {
       icon: 'fa-youtube',
