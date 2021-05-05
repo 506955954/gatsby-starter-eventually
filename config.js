@@ -9,9 +9,9 @@ module.exports = {
   manifestIcon: 'src/assets/img/initials.png',
   pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'Cinematographer ® Operator Filmowy',
+  heading: '',
   subHeading:
-    "Filmowanie│Fotografia│Podróże ↓",
+    "",
   socialLinks: [
     {
       icon: 'fa-youtube',
