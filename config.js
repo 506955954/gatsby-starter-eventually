@@ -28,6 +28,9 @@ module.exports = {
       name: 'Image',
       url: 'https://wydrukujfotografie.pl/Szymon.Rakowski',
     },
+<<<<<<< HEAD
+=======
+
 
   ],
 };
