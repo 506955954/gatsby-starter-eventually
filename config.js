@@ -28,10 +28,6 @@ module.exports = {
       name: 'Image',
       url: 'https://wydrukujfotografie.pl/Szymon.Rakowski',
     },
-    {
-      icon: 'fa-globe',
-      name: 'Globe',
-      url: 'https://clever-thompson-4882ed.netlify.com//',
-    },
+
   ],
 };
