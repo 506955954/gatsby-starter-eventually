@@ -26,7 +26,7 @@ module.exports = {
     {
       icon: 'fa-image',
       name: 'Image',
-      url: 'https://wydrukujfotografie.pl/Szymon.Rakowski',
+      url: 'https://500px.com/p/szymon_rak?view=photos',
     },
   ],
 };
