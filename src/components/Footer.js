@@ -17,7 +17,7 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li> szymonrakowski@protonmail.com</li>
+        <li> szymonrakowski@protonmail.co</li>
         <li>
         </li>
       </ul>
