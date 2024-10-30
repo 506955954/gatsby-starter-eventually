@@ -18,7 +18,6 @@ var settings = {
 const IndexPage = () => (
   <Layout>
     <Header />
-    <EmailForm />
     <Footer />
     <SlideShow settings={settings} />
   </Layout>
