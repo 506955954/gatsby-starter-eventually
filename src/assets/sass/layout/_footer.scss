@@ -10,16 +10,16 @@
   @include vendor('transition', 'opacity 0.5s ease-in-out');
   bottom: 4em;
   color: _palette(fg-light);
-  left: 4em;
-  opacity: 0.5;
+  left: 40em;
+  opacity: 1;
   position: fixed;
 
   .icons {
-    margin: 0 0 (_size(element-margin) * 0.25) 0;
+    margin: 0 0 (_size(element-margin) * 0,4) 0;
   }
 
   .copyright {
-    font-size: 0.8em;
+    font-size: 1em;
     list-style: none;
     padding: 0;
 
