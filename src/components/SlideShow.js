@@ -45,7 +45,6 @@ export default class SlideShow extends PureComponent {
               key={image['url']}
               style={{
                 backgroundPosition: image['position'],
-                backgroundImage: `url("image['url']")`,
                 backgroundImage: `url(${"image['url']"})`,
               }}
               className={
